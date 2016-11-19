@@ -159,7 +159,8 @@ textarea#title {
 }
 
 #options select {
-	width:130px;	
+	width:130px;
+	background-image:url(images/"sans.jpg")
 }
 
 #options input {
