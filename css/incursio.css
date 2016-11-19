@@ -133,7 +133,7 @@ textarea#title {
 }
 
 #options {
-	background-color:#fff;
+	background-color:#f00;
 	width:500px;
 	padding:10px;
 	margin:auto;
@@ -141,7 +141,7 @@ textarea#title {
 }
 
 #options h1 {
-	color:#2a3698;
+	color:#0f0;
 	font-size:22px;
 	text-align:center;
 }
@@ -178,7 +178,7 @@ textarea#title {
 #stats {
 	position:fixed;
 	bottom:0;
-	background-color:#ffffff;
+	background-color:#ff00ff;
 	width:100%;
 	text-align:center;
 	height:110px;
