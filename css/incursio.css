@@ -54,7 +54,7 @@ textarea#title {
 	margin:0;
 	margin:auto;
 	font-size:16px;
-	background-image:url(https://www.youtube.com/watch?v=4TzVOLOROkM)
+	background-image:url(images/sans.jpg)
 }
 
 #game textarea {
@@ -80,7 +80,6 @@ textarea#title {
 	color:#ffffff;
 	height:60px;
 	font-size:20px;
-	background-image:url(https://www.youtube.com/watch?v=4TzVOLOROkM)
 	
 }
 
@@ -135,7 +134,7 @@ textarea#title {
 }
 
 #options {
-	background-color:#f00;
+	background-color:#fff;
 	width:500px;
 	padding:10px;
 	margin:auto;
@@ -188,7 +187,6 @@ textarea#title {
 	height:110px;
 	display:none;
 	left:0;
-	background-image:url(https://www.youtube.com/watch?v=4TzVOLOROkM)
 	
 }
 
