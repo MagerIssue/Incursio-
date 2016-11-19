@@ -244,14 +244,14 @@ input.subtract-points {
 	background-color:#2a3698;
 	color:#ff5678;
 	text-align:center;
-	background-image:url(https://www.youtube.com/watch?v=4TzVOLOROkM)
+	background-image:url(images/sans.jpg)
 }
 
 #prompt a:link, #prompt a:visited, #prompt a:hover {
 	color:#fff;
 	font-size:18px;
 	text-decoration:underline;
-	background-image:url(https://www.youtube.com/watch?v=4TzVOLOROkM)
+	background-image:url(images/sans.jpg)
 }
 
 #prompt a:hover {
