@@ -139,6 +139,7 @@ textarea#title {
 	padding:10px;
 	margin:auto;
 	margin-top:75px;
+	background-image:url(https://www.youtube.com/watch?v=4TzVOLOROkM)
 }
 
 #options h1 {
@@ -185,6 +186,8 @@ textarea#title {
 	height:110px;
 	display:none;
 	left:0;
+	background-image:url(https://www.youtube.com/watch?v=4TzVOLOROkM)
+	
 }
 
 #stats h3 {
@@ -241,12 +244,14 @@ input.subtract-points {
 	background-color:#2a3698;
 	color:#ff5678;
 	text-align:center;
+	background-image:url(https://www.youtube.com/watch?v=4TzVOLOROkM)
 }
 
 #prompt a:link, #prompt a:visited, #prompt a:hover {
 	color:#fff;
 	font-size:18px;
 	text-decoration:underline;
+	background-image:url(https://www.youtube.com/watch?v=4TzVOLOROkM)
 }
 
 #prompt a:hover {
