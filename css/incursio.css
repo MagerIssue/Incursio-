@@ -1,5 +1,5 @@
  body {
-	background-color:#000;	
+	background-color:#fff;	
 	height:100%;
 	font-family:Verdana, Arial, comic-sans, sans-serif;
 	padding-bottom:100px;
@@ -44,12 +44,12 @@ textarea {
 textarea#title {
 	height:50px;
 	width:90%;
-	color:#012b11;
+	color:#99f;
 }
 
 #game {
 	width:50%;
-	background-color:#fff;
+	background-color:#99f;
 	padding:0;
 	margin:0;
 	margin:auto;
@@ -73,11 +73,11 @@ textarea#title {
 
 #game tbody td, #game thead th {
 	vertical-align: middle;
-	background-color:#fff;
+	background-color:#99f;
 	padding:5px;
 	text-align:center;
 	width:19%;
-	color:#ffffff;
+	color:#99f;
 	height:60px;
 	font-size:20px;
 	
