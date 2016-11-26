@@ -134,7 +134,7 @@ textarea#title {
 }
 
 #options {
-	background-color:#fff;
+	background-color:#24f;
 	width:500px;
 	padding:10px;
 	margin:auto;
@@ -158,7 +158,7 @@ textarea#title {
 }
 
 #options select {
-	width:130px;
+	width:60px;
 	background-image:url(images/"sans.jpg")
 }
 
