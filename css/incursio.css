@@ -179,10 +179,10 @@ textarea#title {
 }
 
 
-#stats {
+#stats {/*stats color wanted is light blue*/
 	position:fixed;
 	bottom:0;
-	background-color:#000;
+	background-color:#77f;
 	width:100%;
 	text-align:center;
 	height:110px;
