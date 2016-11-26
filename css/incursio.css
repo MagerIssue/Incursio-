@@ -181,7 +181,7 @@ textarea#title {
 #stats {
 	position:fixed;
 	bottom:0;
-	background-color:#ffffff;
+	background-color:#4dffff;
 	width:100%;
 	text-align:center;
 	height:110px;
@@ -200,7 +200,7 @@ textarea#title {
     font-size:18px;
     font-weight:bold;
     text-align:center;
-    font-family: Verdana, Arial, comic-sans, sans-serif;
+    font-family: Verdana, Papyrus; comic-sans, sans-serif;
     width:100%;
     display:block;
 }
