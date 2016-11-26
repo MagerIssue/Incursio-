@@ -86,11 +86,11 @@ textarea#title {
 #game tbody td {
 	cursor:pointer;
 	height:100px;
-        border:3px solid #f30;
+        border:3px solid #03f;
 }
 
 #game tbody td.ie-hack {
-	border:3px solid #ffff5f;
+	border:3px solid #00f;
 }
 
 /*#game tbody td.clean:hover {
@@ -102,12 +102,12 @@ textarea#title {
 }*/
 
 #game tbody td.dirty h3 {
-	color:#2a3698;	
+	color:#000;	
 }
 
 #game tfoot td {
 	text-align: center;
-	background-color:#f30;
+	background-color:#00f;
 	background-image:url(maxresdefault.png)
 }
 
@@ -117,7 +117,7 @@ textarea#title {
 
 #modal {
 	display: none;
-	background-color:#fff;
+	background-color:#000;
 	padding:5px;
 	border:2px dashed #ccc;
 }
@@ -134,7 +134,7 @@ textarea#title {
 }
 
 #options {
-	background-color:#24f;
+	background-color:#99f;
 	width:500px;
 	padding:10px;
 	margin:auto;
@@ -166,7 +166,8 @@ textarea#title {
 	width:100px;	
 }
 #options p {
-	margin-bottom:0px;	
+	margin-bottom:0px;
+	
 }
 
 .tip {
@@ -181,13 +182,13 @@ textarea#title {
 #stats {
 	position:fixed;
 	bottom:0;
-	background-color:#4dffff;
+	background-color:#00f;
 	width:100%;
 	text-align:center;
 	height:110px;
 	display:none;
 	left:0;
-	
+	background-image: url(images/sans.jpg)
 }
 
 #stats h3 {
@@ -200,7 +201,7 @@ textarea#title {
     font-size:18px;
     font-weight:bold;
     text-align:center;
-    font-family: Verdana, Papyrus; comic-sans, sans-serif;
+    font-family: Verdana, Papyrus;;
     width:100%;
     display:block;
 }
